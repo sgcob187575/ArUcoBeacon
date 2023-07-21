@@ -1,0 +1,2 @@
+1_beacon
+2_aruco_board
